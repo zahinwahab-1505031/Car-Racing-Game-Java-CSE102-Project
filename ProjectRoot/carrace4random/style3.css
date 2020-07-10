@@ -1,0 +1,17 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 15, 2016, 9:37:35 PM
+    Author     : Zahin
+*/
+
+#pane3{
+    -fx-background-image: url("../BinaryContent/Owin.jpg");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 1200 700;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+}
